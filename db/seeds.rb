@@ -1,4 +1,4 @@
-# Airline.destroy_all 
+Airline.destroy_all 
 
 airlines = Airline.create([
     { 
